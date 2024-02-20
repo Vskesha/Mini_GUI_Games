@@ -1,18 +1,24 @@
 # Mini_GUI_Games
 ### small funny games
 
+## Installation
+
+## Usage
+
+## Screenshots
+
 ### HannoiTower
-![](screenshots/hanoitower1.png) | ![](screenshots/hanoitower2.png)
+![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/hanoitower1.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/hanoitower2.png?raw=true)
 :--- | :---
 
 ### TicTacToe
-![](screenshots/tictactoe1.png) | ![](screenshots/tictactoe2.png) | ![](screenshots/tictactoe3.png) | ![](screenshots/tictactoe4.png)
+![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/tictactoe1.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/tictactoe2.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/tictactoe3.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/tictactoe4.png?raw=true)
 :--- | :--- | :--- | :--- 
 
 ### Snake
-![](screenshots/snake1.png) | ![](screenshots/snake2.png) | ![](screenshots/snake3.png)
+![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/snake1.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/snake2.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/snake3.png?raw=true)
 :--- | :--- | :--- 
 
 ### BanderGoose
-![](screenshots/bandergoose1.png) | ![](screenshots/bandergoose2.png)
+![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/bandergoose1.png?raw=true) | ![](https://github.com/Vskesha/Mini_GUI_Games/blob/main/screenshots/bandergoose2.png?raw=true)
 :--- | :--- 
