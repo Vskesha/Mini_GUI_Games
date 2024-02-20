@@ -8,10 +8,10 @@
 ### Use command `games` or `miniguigames` or `mini_gui_games` to show list of avaialable games.
 ### Run commands:
 
-### ```bandergoose```
-### ```hanoitower```
-### ```snake```
-### ```tictactoe```
+    bandergoose
+    hanoitower
+    snake
+    tictactoe
 
 ### to launch the corresponding game
 
