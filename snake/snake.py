@@ -163,7 +163,7 @@ class Snake:
         y = self.dis_height / 2
         self.show_message("Вибери швидкість:", 'black', [x, y], 50)
         self.show_message('"1" - "9" вибрати швидкість', 'black', [x, y + 50], 30)
-        self.show_message('"A" - автоматично', 'black', [x, y + 80], 30)
+        # self.show_message('"A" - автоматично', 'black', [x, y + 80], 30)
 
         while True:
             for event in pygame.event.get():
